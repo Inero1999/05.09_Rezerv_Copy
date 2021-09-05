@@ -1,0 +1,7 @@
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\bin\Debug\05.09_Rezerv_Kopy.exe.config
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\bin\Debug\05.09_Rezerv_Kopy.exe
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\bin\Debug\05.09_Rezerv_Kopy.pdb
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\obj\Debug\05.09_Rezerv_Kopy.csproj.CoreCompileInputs.cache
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\obj\Debug\05.09_Rezerv_Kopy.exe
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\obj\Debug\05.09_Rezerv_Kopy.pdb
+D:\Проекты\C#\05.09_Rezerv_Kopy\05.09_Rezerv_Kopy\obj\Debug\05.09_Rezerv_Kopy.csproj.AssemblyReference.cache
